@@ -1,0 +1,51 @@
+/*******class selectors*********/
+.increase{
+  font-size: 50px;
+}
+
+/********************* tag selectors************/
+body {
+background-color: #eeebd0;
+
+}
+
+hr {
+border-color: #11324d;
+border-style: none;
+border-top: dotted;
+width: 60%;
+}
+
+h1 {
+  margin-left: 400px;
+  font-size: 2rem;
+}
+
+h2{
+margin-left: 50px;
+}
+
+h3{
+  color: #11324d;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+ol, ul{
+  margin-left: 180px;
+}
+
+/****************container div**********/
+.table2, .table1 {
+   width: 100%;
+}
+/****************** div setttings**************/
+
+
+.div2, .div3, .div4, .div5, .div6{
+  padding-bottom: 50px;
+}
+
+.div6{
+  padding-left: 5%;
+}
